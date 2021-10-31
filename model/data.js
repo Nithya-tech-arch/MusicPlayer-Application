@@ -1,6 +1,4 @@
-import App from "../App";
-
-const songs=[
+export const songs = [
     {
         title: "one direction",
         artist: "zayn",
@@ -27,4 +25,3 @@ const songs=[
     },
 
 ];
-export default App;
